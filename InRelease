@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Tue, 08 Sep 2026 07:54:13 +0000
+MD5Sum:
+ ab0199eb1db98362cf34c5c3665d25ee              427 Packages
+ 022ddadf7b80805b2bb1a7e0583c0d95              331 Packages.gz
+ c7064aefd3435600478d5fcc7d2fc2ab               38 Release
+SHA1:
+ ac1ca37b6e6f4059d5458ae5b6e31a18fd8fe7c5              427 Packages
+ 448b396aaa7df59a5aa865d9246c237e5f281bdd              331 Packages.gz
+ ccf4fbaa84b64f997719a766be8fa1ce15958ea2               38 Release
+SHA256:
+ dba52f6c34f64e86eaf0515dcd9a12484b9190ac9831a4306ce1628c611ef0f5              427 Packages
+ 9b44b822d9e58a9ca2b248f9bff7e4674f177509780ab31cbe72dade453543d7              331 Packages.gz
+ c38a465289d333c514b9d5ed50bc51d03796dfc119bbe76d46792f1f1010ada4               38 Release
+SHA512:
+ a50aff42fb915598d37c3adf55d603d4104cf81d70bca7f736837dedef5365aff0e837334314457123749d7bfdf07420c53ee72c89b547afea4eaa6dca1f92bc              427 Packages
+ ad48ed6b18e214f6ee1ca938ae3888d8f63d3f27f6bc9a7fa05c1ee0c53412d2e64ea95d71fb3d3661fe2bb1aed02535966b8a0710a2cc04d265c247cf7a0918              331 Packages.gz
+ 919e408e95b9710ebef28e1a397093c02b183c7680314b0766dd221434b171ff442dd7b56a5b039dc18277e22fe36378b9c8f7369559f691d9948df380cdc5a6               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEt8RrXBZUD21OXhZHiDYcZvqq3dQFAmqfvzsACgkQiDYcZvqq
+3dREhg/+LeRMZ+uXdmbWxtoLwUNEmyA+xvGusOqpulr6/MZfD9QTvSwxM+9xa6i7
+3i81ayaHO1htPCI5B8hRwuU7xIelMAcJggBmRBBc49sH416yfnyXZPuo0JLyTiwX
+u3GVCAdXHutg/WbESBJ9QXWNkTzjtPCKbVfLlQ38B9SBGVEMW55dXWbJ9YgjqQ91
+U0supDaEE4geVYG0ZyCtoOi9PU82jfnPzAAcKmWlUUCJId2xVa3NOaffoBsoyCtT
+gcEt/VK9hm4rpA+t3bjRoOL5wHP0IU6E4DXqg9XPtmv848nHRXUNSmUMNbgnb4ex
++0JJ1NfNpkYjAkE4/Y/DcZ2iLT4ZwOf8yK/d0rcez3vl3mSHrk7vKAxUebjhmAc0
+k5YGKH2m1qv/sC8pvR7XBM6BGlu5H9VVFPQj23UwJxYZF6xivmigI/C5kZvGMixR
+rk6kxhZO+Tdt2bi6wtthg+/by6qDqALiNCXFmYc4OfY2Z7jYWFbEbHqNXNfN7N3G
+s2FwX4KNTK3KJcvtlP0J3jMac0vCrQ7h1q/lATDkT+GuRdvjhFySTxZa65hwmZFK
+M3kOSdH+bNDOcvsx7qfx6T6i2SoRGPfjSVidnbHIl2yFTvA+Y5CPURJrIwjf6tgu
+StredBkyFTa3kpx6hO7xLti2+Zcz3yoBeV4cAWmngoKsUGDAtE0=
+=mAZ5
+-----END PGP SIGNATURE-----
