@@ -1,13 +1,13 @@
 Package: jelly-mayhem
-Version: 1.6.4
+Version: 1.6.5
 Architecture: amd64
 Maintainer: fsliwa
 Installed-Size: 5526
-Filename: pool/main/j/jelly-mayhem/Jelly-Mayhem-1.6.4-Linux.deb
-Size: 2196038
-MD5sum: a862a80cc90efa10e95d2b5d6fbb568a
-SHA1: 53f6076374fc16de9d1321296669cf91fb000c31
-SHA256: ff31689b254a15d3bf291b75cfb0b53b92fff96c2c695bc6a44a6ca45815085f
+Filename: pool/main/j/jelly-mayhem/Jelly-Mayhem-1.6.5-Linux.deb
+Size: 2196048
+MD5sum: 08dc507930b9431156d82ea235e77843
+SHA1: 6c19c5f6cf27895d687c8142cc9227b5173f4729
+SHA256: 542e088954890450435331926beaf2087e6e64c45b48b0baa0efc884a79524cd
 Section: devel
 Priority: optional
 Description: Jelly-Mayhem - a fast-paced 2D action game
