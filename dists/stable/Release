@@ -1,23 +1,23 @@
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Wed, 23 Sep 2026 09:45:16 +0000
+Date: Fri, 25 Sep 2026 10:38:38 +0000
 Label: Jelly-Mayhem
 Origin: Jelly-Mayhem
 Suite: stable
 MD5Sum:
- 5c3ecba0c3e0e5a212abc6cdbf5a89e5              148 Release
- f91aca6d8762c4799f30a58224bce5cb              429 main/binary-amd64/Packages
- 91ab88aa4e9fc61727cdf077ed5ce2b2              327 main/binary-amd64/Packages.gz
+ f26f675561be14d4eb44715aaabef7db              148 Release
+ ee6bbfbf34826590f4f28bca234f238b              429 main/binary-amd64/Packages
+ 62708bdc52d89dd2cdfcc68f78c97d04              331 main/binary-amd64/Packages.gz
 SHA1:
- a3c44c94ae0b5d1eda3bacc27fefef2378b4e315              148 Release
- 2c5998893e646e683fd60456a4762316f3dd07aa              429 main/binary-amd64/Packages
- 3b15c7fe93f618d2ce88b9c213dcd2f8b22de50f              327 main/binary-amd64/Packages.gz
+ c825e971aba0a96a13b4a324e476beeac70d30c4              148 Release
+ df3768f5e64f5b0dbd430544fc491291ffa51851              429 main/binary-amd64/Packages
+ c5ce863ded5f7689add91bb3ad081ef34181e9ab              331 main/binary-amd64/Packages.gz
 SHA256:
- 21a94e2ad098185657565b4c069fb0627c034b7ff1d0e48f1d72fb75cf98291f              148 Release
- 4c70e352f4d821ab5eef18fd196ab08daa2b2c9b14bcb8f46a79569c100e69bb              429 main/binary-amd64/Packages
- 41c4901f40e091a4248e1a40096e5708dbefe604c76450b665bc68dbe7efcc74              327 main/binary-amd64/Packages.gz
+ ca8ede7f73eea8891b4de61c66433f67882c3e65600134a50049a1c4df40d986              148 Release
+ 0c71a8d2d26d7c95d420b69c11feec21f7824633173717d1a02a33735b9d6e1e              429 main/binary-amd64/Packages
+ c7f6b1d38ee37960ca42b5ae21ec1b419d426494a0bb52f1b94ce57ce54d77da              331 main/binary-amd64/Packages.gz
 SHA512:
- e8de614bf95d28c2d1e23c1386ca141c5d6a72ed7278a5a0999a37112a67e845b64f2cc72baa7fa0e98706ff2d403fd97f356824bf5cd8b420558e981d99b87a              148 Release
- e849c1282e97c122501bc9e9643734440f4cc41007fb9bf761ebb5f635f8b051031251d3b9b5aa87be2f3c33a75eab822bd78b718b15e90f38c9567a3b39c1e9              429 main/binary-amd64/Packages
- d8621583eb75f142fc546f2c2f662fe55f430c165b207a11bcb2c612e39c4ea240d8b662cf9fd1c7d9b1ce4b8c9a0b5cf18c3e2d037c2ab2e9ccb8563b1d67a9              327 main/binary-amd64/Packages.gz
+ 765fce1d2cb388422dd39e07cdef0d97d8b2273bf1164b82d10fd4bcf87f4f9b51581d8262ce87a5a69bfc70bd4588b4af72890a4633a138416fae96a52bf764              148 Release
+ 0a8521ebc12c8749563eee56cc50d0c2d92dabdd17cfc9007721adce42e1a20f17235e318b74aad809bb15218b5617ee992371f2d5d15bfc7a717815f856ac1d              429 main/binary-amd64/Packages
+ 4d231b1eb6c4b06d0dcb4da48788b67d83e9994fb36a9150c73082eda505add8e21ab40088cd8c8183e07db8bcbe3630ce1ac6bcc232d13234879cfefbb66c8b              331 main/binary-amd64/Packages.gz
